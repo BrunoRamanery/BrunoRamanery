@@ -1,0 +1,1 @@
+=rand(*) cria um texto aleatorio

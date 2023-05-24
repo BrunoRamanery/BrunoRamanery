@@ -1,0 +1,9 @@
+=PROCV(valor da pesquisa, intervalo que contém o valor da pesquisa, o número da coluna no intervalo que contém o valor de retorno, Correspondência Aproximada (TRUE) ou Correspondência Exata (FALSE)).
+=SE() -->  O primeiro resultado é se a comparação for Verdadeira, o segundo se a comparação for Falsa.
+
+Teste Lógico – Aqui é onde iremos colocar a nossa condição, então para o primeiro caso iríamos colocar D2<80%, ou seja, vamos verificar se a célula D2 é menor do que 80%.
+
+Valor se verdadeiro – Este é o primeiro resultado, caso a condição seja verdadeira, isso quer dizer se a célula D2 for menor que 80% vamos querer colocar o resultado da célula J1, que é Demitido.
+
+Valor se falso – Este é o segundo resultado, caso a condição seja falsa. Neste caso como temos mais de 2 resultados possíveis ao invés de colocarmos o resultado Redução Salarial por exemplo, vamos colocar outra fórmula SE, desta forma vamos ter mais 1 opção de resultado, totalizando 3 possíveis cenários. E vamos fazer isso mais uma vez para que possamos ter um total de 4 resultados, que atendem todas as opções disponíveis dentro da nossa tabela.
+

@@ -1,0 +1,2 @@
+ppt = pode ser editado
+pps = so apresentação 
